@@ -73,7 +73,7 @@ form input{
 }
 #pic1 {
     height: 100vh;
-    min-height: 100%;    
+    min-height: 150%;    
     margin: -1vh;
     background-size: cover;
     background-repeat: no-repeat;
